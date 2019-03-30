@@ -1,0 +1,6 @@
+```
+var isPalindrome = function(x) {
+      return x === Number(String(x).split('').reverse().join(''));
+};
+```
+高阶的还不会。。。
